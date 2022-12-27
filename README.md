@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center">Tạo web application JSP Servlet với Tomcat10 </h2>
+ <h2 align="center">Tạo web application JSP Servlet sử dụng JSTL với Tomcat10 </h2>
 </p>
 
 # Tạo project Java web application
@@ -106,9 +106,12 @@ Time is ${stuff}
 
 ```
 
+
+> tham khảo thêm các Tag [tại đây](https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm)
+
 # kêt quả 
 
 ![image](https://user-images.githubusercontent.com/109157942/209607173-063e0665-7062-4c0e-8cdb-799f7e2b378f.png)
 
 
-
+> Toàn bộ code bài viết xem [tại đây](https://github.com/thangdtph27626/JSP_SERVLET.github.io)
